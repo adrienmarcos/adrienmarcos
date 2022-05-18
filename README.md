@@ -1,6 +1,6 @@
 <h3 align="center">
-  Hi there! I am Adrien Rossato 👋 <br/>
-  I am an junior Web Developer studying React and Java/Node at moment
+  Hi there! I am Adrien Rossato! I'm a Web Developer 👋 <br/>
+  I'm studying JS and Java at moment. You can see below the technologies that I use the most
 </h3>
 
 <!--
