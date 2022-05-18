@@ -1,4 +1,6 @@
-## Hi there! I'm Adrien Rossato 👋
+<h2 align="center" style="font-size: 60px">
+  Hi there! I'm Adrien Rossato 👋
+</h2>
 
 <!--
 **adrienmarcos/adrienmarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
