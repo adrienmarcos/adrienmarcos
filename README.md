@@ -1,5 +1,5 @@
 <h3 align="center">
-  Hi there! I am Adrien Rossato! I'm a Web Developer 👋 <br/>
+  Hi there! I am Adrien Rossato! I'm a Web Developer <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> <br/>
   I'm studying JS and Java at moment. You can see below the technologies that I use the most ✨
 </h3>
 
