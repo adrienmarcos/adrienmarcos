@@ -46,5 +46,4 @@
   
 ##
   
-  ![Snake animation](https://github.com/adrienmarcos/adrienmarcos/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
-
+  ![Snake animation](https://github.com/adrienmarcos/adrienmarcos/blob/output/github-contribution-grid-snake.svg)
