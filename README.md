@@ -1,5 +1,5 @@
 <h3 align="center">
-  Hi there! I am Adrien Rossato! I'm a Web Developer <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> <br/>
+ Hi there! I am Adrien Rossato! I'm a Web Developer <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> <br/>
   I'm studying JS and Java at moment. You can see below the technologies that I use the most ✨
 </h3>
 
@@ -44,7 +44,10 @@
   </a>  
   <a href="https://www.linkedin.com/in/adrien-rossato/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>  
+  </a>
+  <a hre="#">
+    <img src="https://komarev.com/ghpvc/?username=adrienmarcos&color=ff69b4&style=for-the-badge" alt="Profile views" /> 
+  </a>
 <div>
   
   ![Snake animation](https://github.com/adrienmarcos/adrienmarcos/blob/output/github-contribution-grid-snake.svg)
