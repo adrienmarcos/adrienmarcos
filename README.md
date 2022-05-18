@@ -1,5 +1,7 @@
-<p align="center">Hi there! I am Adrien Rossato 👋</p>
-<p align="center">I am an junior Web Developer studying React and Java at moment</p>
+<h3 align="center">
+  Hi there! I am Adrien Rossato 👋 <br/>
+  I am an junior Web Developer studying React and Java/Node at moment
+</h3>
 
 <!--
 **adrienmarcos/adrienmarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
