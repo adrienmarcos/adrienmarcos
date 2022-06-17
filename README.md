@@ -1,6 +1,6 @@
 <div>
- <h3 align="start">Hi there!</h3>
-  I am Adrien Rossato! I'm a Web Developer <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30"> <br/>
+ <h3>Hi there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30"></h3>
+  I am Adrien Rossato! I'm a Web Developer  <br/>
   I'm studying JS and Java at moment. You can see below the technologies that I use the most ✨
 </div>
 
