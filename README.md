@@ -1,7 +1,10 @@
-<h3 align="center">
- Hi there! I am Adrien Rossato! I'm a Web Developer <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30"> <br/>
+<div>
+ <h3 align="start">Hi there!</h3>
+  I am Adrien Rossato! I'm a Web Developer <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30"> <br/>
   I'm studying JS and Java at moment. You can see below the technologies that I use the most ✨
-</h3>
+</div>
+
+<br/>
 
 <div align="center">
   <a href="https://github.com/adrienmarcos">
