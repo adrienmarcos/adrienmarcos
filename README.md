@@ -2,7 +2,7 @@
  <h3>Hi there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30"></h3>
   I am Adrien Rossato! <br/>
   I am a junior Web Developer, my current stack is Vuejs, Java with Spring Boot and MySql. <br/>
-  I am improving my knowledge on <strong>Javascript (NodeJS)</strong> and <strong>Java/Spring Boot</strong>. <br/>
+  I am improving my knowledge on <strong>NodeJS</strong> and <strong>Java/Spring</strong>. <br/>
   I am looking to be a backend developer on future. <br/>
   You can see below the technologies that I use the most and my social media links✨. Cya!
 </div>
@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://github.com/adrienmarcos">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=adrienmarcos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api username=adrienmarcos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrienmarcos&layout=compact&langs_count=7&theme=dracula"/>
   <!-- <img height="360em" src="https://github-readme-streak-stats.herokuapp.com/?user=adrienmarcos&theme=dracula&hide_border=false"></a>&nbsp; -->
 </div> 
