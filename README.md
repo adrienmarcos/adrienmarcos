@@ -25,10 +25,10 @@
   <!-- <img align="center" alt="REACT" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <!-- <img align="center" alt="VUE" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"> -->
   <!-- <img align="center" alt="NODE" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> -->
-  <img align="center" alt="JAVA" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="SPRING" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  <img align="center" alt="MYSQL" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="POSTGRESQL" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="JAVA" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="SPRING" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+  <img align="center" alt="MYSQL" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="POSTGRESQL" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
 </div>
 
 ##  
