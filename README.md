@@ -23,13 +23,20 @@
   <img align="center" alt="JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <!-- <img align="center" alt="TS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
   <img align="center" alt="REACT" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <!-- <img align="center" alt="ANGULAR" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> -->
+  <!-- <img align="center" alt="ANGULAR" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"> -->
   <img align="center" alt="VUE" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
   <!-- <img align="center" alt="NODE" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> -->
   <img align="center" alt="JAVA" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="SPRING" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   <img align="center" alt="MYSQL" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="POSTGRESQL" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <!-- <img align="center" alt="KAFKA" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg"> -->
+  <!-- <img align="center" alt="DOCKER" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"> -->
+  <!-- <img align="center" alt="GIT" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> -->
+  <!-- <img align="center" alt="KOTLIN" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"> -->
+  <!-- <img align="center" alt="KUBERNETES" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg"> -->
+  <!-- <img align="center" alt="NESTJS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg"> -->
+  <!-- <img align="center" alt="NEXTJS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"> -->
 </div>
 
 ##  
