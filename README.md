@@ -1,8 +1,9 @@
 <div>
  <h3>Hi there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30"></h3>
-  I am Adrien Rossato! <br/>
-  I am a junior Web Developer, my current stack is Vuejs, Java with Spring Boot and MySql. <br/>
-  I am improving my knowledge on <strong>Java</strong> with <strong>Spring Framework</strong> looking to be a backend developer on future. <br/>
+  I am Adrien Rossato. <br/>
+  I am a Web Developer, my current stack is Vuejs or Angular, Java with Spring Framework and MySql. <br/>
+  I am improving my knowledge on <strong>Java</strong> with <strong>Spring Framework</strong> and <strong>Angular</strong> l oking to be a fullstack developer. <br/>
+  I am studying Computer Science.
   You can see below the technologies that I use the most and my social media links✨. Cya!
 </div>
 
