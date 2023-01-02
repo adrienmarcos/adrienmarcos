@@ -1,8 +1,7 @@
 <div>
  <h3>Hi there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30"></h3>
   I am Adrien Rossato. <br/>
-  I am a Software Developer, my preffer stack is Java with Spring Framework, Javascript, Typescript, Angular | Vuejs. <br/>
-  I am improving my knowledge on <strong>Java</strong> with <strong>Spring Framework</strong> and <strong>Angular</strong> because I am falling in love with this stack. <br/>
+  I am a Software Developer, my preffer stack is Java with Spring Framework | NodeJS, Javascript, Typescript, Angular | ReactJS. <br/>
   You can see below the technologies that I use the most and my social media links✨. Cya!
 </div>
 
