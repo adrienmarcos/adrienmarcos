@@ -1,9 +1,9 @@
 <div>
- <h3>Hi there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30"></h3>
+ <h1>Hi there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30"></h1>
 </div>
 
 <div>
-  <h4>About me</h4> <br/>
+  <h3>About me</h3> <br/>
   I am Adrien Marcos Rossato. <br/>
   I'm a {backend and frontend} developer at <a href="https://www.ailog.com.br/">@Ailog Tecnologia</a>. <br/>
   You can see below the technologies that I use the most and my social media links✨. Cya!
