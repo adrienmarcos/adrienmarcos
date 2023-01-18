@@ -5,17 +5,6 @@
   You can see below the technologies that I use the most and my social media links✨. Cya!
 </div>
 
-
-<!--
-<div align="center">
-  <a href="https://github.com/adrienmarcos">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adrienmarcos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrienmarcos&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="360em" src="https://github-readme-streak-stats.herokuapp.com/?user=adrienmarcos&theme=dracula&hide_border=false"></a>&nbsp;
-</div> 
--->
-<br/>
-
 <div align="center" style="display: inline_block">
   <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
