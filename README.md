@@ -4,7 +4,7 @@
   I am a Software Developer, my preffer stack is Java with Spring Framework, Node, Javascript, Typescript, Angular, React. <br/>
   You can see below the technologies that I use the most and my social media links✨. Cya!
 </div>
-<br/>
+
 
 <!--
 <div align="center">
