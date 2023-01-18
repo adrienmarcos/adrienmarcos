@@ -1,6 +1,4 @@
-<div>
- <h1>Hi there, I'm Adrien! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30"></h1>
-</div>
+<h1>Hi there, I'm Adrien! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30"></h1>
 
 <div>
   <h3>About me</h3> <br/>
