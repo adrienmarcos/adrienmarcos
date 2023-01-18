@@ -21,7 +21,7 @@
   </a>
 <div>
 
-<div>
+<div align="left">
   <h3>About me</h3>
   I'm a {backend and frontend} developer at <a href="https://www.ailog.com.br/">@Ailog Tecnologia</a>. <br/>
   You can see below the technologies that I use the most and my social media links✨. Cya!
