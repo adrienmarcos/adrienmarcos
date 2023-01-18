@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <h5>About me</h5> <br/>
+  <h4>About me</h4> <br/>
   I am Adrien Marcos Rossato. <br/>
   I'm a {backend and frontend} developer at <a href="https://www.ailog.com.br/">@Ailog Tecnologia</a>. <br/>
   You can see below the technologies that I use the most and my social media links✨. Cya!
