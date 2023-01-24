@@ -24,7 +24,7 @@
 <div align="left">
   <h3>About me</h3>
   I'm a {backend and frontend} developer at <a href="https://www.ailog.com.br/">@Ailog Tecnologia</a>. <br/>
-  You can see below the technologies that I work and study the most and above my social media links✨. Cya!
+  You can see below the technologies that I work and study the most and my social media links above✨. Cya!
 </div>
 
 <br/>
