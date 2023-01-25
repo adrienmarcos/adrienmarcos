@@ -43,6 +43,7 @@
   <img align="center" alt="GO" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
   <img align="center" alt="KOTLIN" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="NGINX" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg">
+  <img align="center" alt="DART" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
   <img align="center" alt="TERRAFORM" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg">
 -->
   <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -56,7 +57,6 @@
   <img align="center" alt="SPRING" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   <br/><br/>
   <img align="center" alt="JEST" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
-  <img align="center" alt="DART" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
   <img align="center" alt="MYSQL" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="POSTGRESQL" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="GIT" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> 
