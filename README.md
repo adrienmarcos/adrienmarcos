@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30">
 </h1>
 
-<div align="left" style="display: inline_block"> 
+<div align="left" style="display: inline_block">
   <a href="mailto:adrien.marcos@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>  
