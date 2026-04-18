@@ -1,70 +1,60 @@
-<h1>
-  Hi there, I'm Adrien! 
-  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30">
-</h1>
+<h1 align="center">Olá, eu sou o Adrien! 👋</h1>
 
-<div align="left" style="display: inline_block">
+<h3 align="center">Desenvolvedor Fullstack (Backend & Frontend)</h3>
+
+<p align="center">
   <a href="mailto:adrien.marcos@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>  
-  <a href="mailto:adrien.marcos@hotmail.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-  </a>  
-  <!--
-  <a href="https://twitter.com/AdrienRossato" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>  
-  -->
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
   <a href="https://www.linkedin.com/in/adrien-rossato/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a hre="#">
-    <img src="https://komarev.com/ghpvc/?username=adrienmarcos&color=ff69b4&style=for-the-badge" alt="Profile views" /> 
-  </a>
-<div>
+</p>
 
-<div align="left">
-  <h3>About me</h3>
-  I'm a {backend and frontend} developer at <a href="https://www.ailog.com.br/">@Ailog Tecnologia</a>. <br/>
-  You can see below the technologies that I work and study the most and my social media links above✨. Cya!
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adrienmarcos&color=0077B5&style=flat-square&label=VISUALIZAÇÕES" alt="Profile views" /> 
+</p>
 
-<br/>
+---
 
-<div align="center" style="display: inline_block">
-<!-- 
-  <img align="center" alt="ANGULAR" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="KAFKA" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg">
-  <img align="center" alt="DOCKER" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-  <img align="center" alt="KOTLIN" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"> 
-  <img align="center" alt="KUBERNETES" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="NESTJS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
-  <img align="center" alt="NEXTJS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg">
-  <img align="center" alt="FLUTTER" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="GITLAB" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg">
-  <img align="center" alt="GO" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
-  <img align="center" alt="KOTLIN" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="NGINX" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg">
-  <img align="center" alt="DART" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
-  <img align="center" alt="TERRAFORM" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg">
--->
-  <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <!-- <img align="center" alt="REACT" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
-  <img align="center" alt="VUE" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="NODE" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="JAVA" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="SPRING" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  <br/><br/>
-  <img align="center" alt="JEST" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
-  <img align="center" alt="MYSQL" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="POSTGRESQL" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="GIT" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> 
-  <img align="center" alt="GITHUB" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-</div>
+## 👨‍💻 Sobre Mim
 
-##  
+Sou um desenvolvedor apaixonado por tecnologia, atuando no desenvolvimento **Backend e Frontend** na [@Ailog Tecnologia](https://www.ailog.com.br/). Tenho experiência em criar soluções eficientes e escaláveis, buscando sempre aprimorar meus conhecimentos nas melhores práticas de engenharia de software.
 
-  ![Snake animation](https://github.com/adrienmarcos/adrienmarcos/blob/output/github-contribution-grid-snake.svg)
+- 🔭 Atualmente trabalhando com: **Java, Spring, Node.js e Vue.js**
+- 🌱 Estudando e me aprimorando em: **Arquitetura de Software e Design Patterns**
+- 💬 Pergunte-me sobre: **Java, JavaScript/TypeScript, e ecossistema web**
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/adrien-rossato/) ou por e-mail.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 💻 Linguagens e Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+### 🛢️ Banco de Dados e Testes
+<p align="left">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adrienmarcos&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do Adrien" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrienmarcos&layout=compact&theme=dracula&hide_border=true" alt="Top Linguagens" width="48%" />
+</p>
