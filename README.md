@@ -55,6 +55,6 @@ Sou um desenvolvedor apaixonado por tecnologia, atuando no desenvolvimento **Bac
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrienmarcos&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do Adrien" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adrienmarcos&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do Adrien" width="48%" height="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrienmarcos&layout=compact&theme=dracula&hide_border=true" alt="Top Linguagens" width="48%" />
 </p>
