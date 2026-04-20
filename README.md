@@ -19,7 +19,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou um desenvolvedor apaixonado por tecnologia, atuando no desenvolvimento **Backend e Frontend** na [@Ailog Tecnologia](https://www.ailog.com.br/). Tenho experiência em criar soluções eficientes e escaláveis, buscando sempre aprimorar meus conhecimentos nas melhores práticas de engenharia de software.
+Sou um desenvolvedor **Fullstack** atuando no desenvolvimento **Backend e Frontend** na [@Ailog Tecnologia](https://www.ailog.com.br/). Tenho experiência em criar soluções eficientes e escaláveis, buscando sempre aprimorar meus conhecimentos nas melhores práticas de engenharia de software.
 
 - 🔭 Atualmente trabalhando com: **Java, Spring, Node.js e Vue.js**
 - 🌱 Estudando e me aprimorando em: **Arquitetura de Software e Design Patterns**
