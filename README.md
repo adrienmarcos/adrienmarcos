@@ -1,6 +1,7 @@
-<h1 align="center">Olá, eu sou o Adrien! 👋</h1>
+---
+<h1 align="center">Hello, I'm Adrien! 👋</h1>
 
-<h3 align="center">Desenvolvedor Fullstack (Backend & Frontend)</h3>
+<h3 align="center">Fullstack Developer (Backend & Frontend)</h3>
 
 <p align="center">
   <a href="mailto:adrien.marcos@gmail.com" target="_blank">
@@ -12,25 +13,25 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adrienmarcos&color=0077B5&style=flat-square&label=VISUALIZAÇÕES" alt="Profile views" /> 
+  <img src="https://komarev.com/ghpvc/?username=adrienmarcos&color=0077B5&style=flat-square&label=VIEWS" alt="Profile views" /> 
 </p>
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 About Me
 
-Sou um desenvolvedor **Fullstack** atuando no desenvolvimento **Backend e Frontend** na [@Ailog Tecnologia](https://www.ailog.com.br/). Tenho experiência em criar soluções eficientes e escaláveis, buscando sempre aprimorar meus conhecimentos nas melhores práticas de engenharia de software.
+I am a **Fullstack** developer working in **Backend and Frontend** development at [@Ailog Tecnologia](https://www.ailog.com.br/). I have experience creating efficient and scalable solutions, always seeking to improve my knowledge of the best practices in software engineering.
 
-- 🔭 Atualmente trabalhando com: **Java, Spring, Node.js e Vue.js**
-- 🌱 Estudando e me aprimorando em: **Arquitetura de Software e Design Patterns**
-- 💬 Pergunte-me sobre: **Java, JavaScript/TypeScript, e ecossistema web**
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/adrien-rossato/) ou por e-mail.
+- 🔭 Currently working with: **Java, Spring, Node.js, and Vue.js**
+- 🌱 Studying and improving in: **Software Architecture and Design Patterns**
+- 💬 Ask me about: **Java, JavaScript/TypeScript, and the web ecosystem**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adrien-rossato/) or via email.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies and Tools
 
-### 💻 Linguagens e Frameworks
+### 💻 Languages and Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
@@ -42,7 +43,7 @@ Sou um desenvolvedor **Fullstack** atuando no desenvolvimento **Backend e Fronte
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-### 🛢️ Banco de Dados e Testes
+### 🛢️ Databases and Testing
 <p align="left">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
