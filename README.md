@@ -25,7 +25,7 @@ I am a **Fullstack** developer working in **Backend and Frontend** development a
 - 🔭 Currently working with: **Java, Spring, Node.js, and Vue.js**
 - 🌱 Studying and improving in: **Software Architecture and Design Patterns**
 - 💬 Ask me about: **Java, JavaScript/TypeScript, and the web ecosystem**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adrien-rossato/) or via email.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adrien-rossato/) or via email at [adrien.marcos@gmail.com](mailto:adrien.marcos@gmail.com) / [adrien.marcos@hotmail.com.br](mailto:adrien.marcos@hotmail.com.br).
 
 ---
 
